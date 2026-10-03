@@ -22,8 +22,6 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 - 🧠 Data Structures & Algorithms
 - 🤖 Machine Learning Enthusiast
 - 📊 Exploring Data Science & Artificial Intelligence
-- 📱 Android Development
-- 💙 Kotlin Learner
 - 🔧 Building practical and real-world projects
 - 🌱 Always learning something new
 
@@ -47,7 +45,7 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -56,16 +54,10 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
 </p>
 
-### 📱 Android Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
-</p>
-
 ### 🌐 Web & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,javasript" />
 </p>
 
 ### 🗄️ Database & Tools
@@ -96,12 +88,6 @@ Reinforcement Learning project using **Deep Q-Learning** to train an agent to pl
 
 **Tech:** Python • PyTorch • DQN • Reinforcement Learning
 
-### 🔗 Amazon Entity Resolution
-
-Machine Learning project focused on matching and resolving business entities across multiple data sources.
-
-**Tech:** Python • Data Processing • Similarity Features • Machine Learning
-
 ---
 
 ## 📚 Currently Learning
@@ -110,9 +96,6 @@ Machine Learning project focused on matching and resolving business entities acr
 - 🧠 Deep Learning
 - 📊 Data Science
 - 🧩 Data Structures & Algorithms
-- 📱 Android Development
-- 💙 Kotlin
-- 🌐 Model Deployment
 - ✨ Generative AI
 - 🗄️ Advanced SQL
 
@@ -135,7 +118,6 @@ I regularly practice **Data Structures & Algorithms** and solve programming prob
 - 🚀 Build strong foundations in Machine Learning & AI
 - 🧠 Become proficient in Data Science
 - 💻 Strengthen Python, Java & DSA
-- 📱 Build useful Android applications
 - 🌐 Learn Machine Learning Model Deployment
 - 🔨 Build real-world projects
 - 📚 Continuously improve my technical skills
