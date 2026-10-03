@@ -68,7 +68,7 @@ I enjoy turning ideas into practical projects, exploring new technologies, and c
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📱 Mobile Price Range Prediction
 
