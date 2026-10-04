@@ -78,7 +78,7 @@ I enjoy learning new technologies, solving programming problems, building practi
 
 # 🧩 Skills
 
-Python • Java • Kotlin • Machine Learning • Deep Learning • Artificial Intelligence • Data Science • Data Analytics • Computer Vision • Neural Networks • NLP • Generative AI • Model Deployment • Git & GitHub • DSA • Problem Solving
+Python • Java • Machine Learning • Deep Learning • Artificial Intelligence • Data Science • Data Analytics • Computer Vision • Neural Networks • NLP • Generative AI • Model Deployment • Git & GitHub • DSA • Problem Solving
 
 ---
 
